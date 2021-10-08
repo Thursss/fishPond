@@ -1,0 +1,3 @@
+[submodule "plugins/z-ui"]
+	path = plugins/z-ui
+	url = https://github.com/Thursss/z-ui.git
