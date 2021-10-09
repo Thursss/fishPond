@@ -4,6 +4,6 @@
 [submodule "packages/vi"]
 	path = packages/vi
 	url = https://github.com/Thursss/vi.git
-[submodule "plugins/plugins/z-chart"]
-	path = plugins/plugins/z-chart
+[submodule "plugins/z-chart"]
+	path = plugins/z-chart
 	url = https://github.com/Thursss/z-chart.git
