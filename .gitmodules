@@ -1,3 +1,9 @@
 [submodule "plugins/z-ui"]
 	path = plugins/z-ui
 	url = https://github.com/Thursss/z-ui.git
+[submodule "packages/vi"]
+	path = packages/vi
+	url = https://github.com/Thursss/vi.git
+[submodule "plugins/plugins/z-chart"]
+	path = plugins/plugins/z-chart
+	url = https://github.com/Thursss/z-chart.git
