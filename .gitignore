@@ -47,3 +47,6 @@ packages/*/yarn.lock
 # For country map geojson conversion script
 .ipynb_checkpoints/
 scripts/*.zip
+
+# VSCodecounter
+.VSCodecounter/
