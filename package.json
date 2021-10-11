@@ -5,6 +5,16 @@
     "packages/*",
     "plugins/*"
   ],
+  "scripts": {
+    "start:vi": "lerna run --scope vi start",
+    "build:vi": "lerna run --scope vi build",
+    "start:z-chart": "lerna run --scope z-chart start",
+    "build:z-chart": "lerna run --scope z-chart build",
+    "start:z-ui": "lerna run --scope z-ui start",
+    "build:z-ui": "lerna run --scope z-ui build",
+    "clean": "lerna clean && rimraf ./node_modules",
+    "i": "lerna bootstrap"
+  },
   "devDependencies": {
     "lerna": "^4.0.0"
   }
