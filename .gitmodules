@@ -7,3 +7,6 @@
 [submodule "plugins/z-chart"]
 	path = plugins/z-chart
 	url = https://github.com/Thursss/z-chart.git
+[submodule "packages/jira-stu"]
+	path = packages/jira-stu
+	url = https://github.com/Thursss/jira-stu.git
