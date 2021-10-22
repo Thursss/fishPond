@@ -7,10 +7,11 @@
   ],
   "scripts": {
     "start:vi": "lerna run --scope vi start",
-    "build:vi": "lerna run --scope vi build",
+    "start:jira-stu": "lerna run --scope jira-stu start",
     "start:z-chart": "lerna run --scope z-chart start",
-    "build:z-chart": "lerna run --scope z-chart build",
     "start:z-ui": "lerna run --scope z-ui start",
+    "build:vi": "lerna run --scope vi build",
+    "build:z-chart": "lerna run --scope z-chart build",
     "build:z-ui": "lerna run --scope z-ui build",
     "clean": "lerna clean && rimraf ./node_modules",
     "i": "lerna bootstrap"
